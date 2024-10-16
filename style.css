@@ -1,0 +1,24 @@
+.fondorojo .form-control{
+    background-color: brown;
+}
+
+h2 {
+    text-align: center;
+}
+
+#registroForm {
+    background: linear-gradient(135deg, #00f, #8a2be2, #00ff7f);
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn-primary {
+    background-color:transparent;
+    border:2px solid black ;
+    font-size: 20px;
+    margin-left: 45%;
+    margin-top: 40px;
+    transition: 1.5s;
+}
+
